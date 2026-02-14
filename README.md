@@ -1,0 +1,1 @@
+This project enables real-time drone control using hand gestures. The system captures live camera feed, detects hand gestures using Mediapipe, and classifies them with a machine learning model (CNN or keypoint-based NN) to trigger drone commands like Up, Down, Left, Right, Takeoff, Land, and Flip.
